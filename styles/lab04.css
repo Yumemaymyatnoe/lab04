@@ -1,0 +1,85 @@
+/*
+filename:[May Myat Noe]
+author:[May Myat Noe]
+created:[9/2/2025]
+last modified:[9/2/2025]
+description:[html files it refer to (if known)]
+*/
+
+body {
+    font-family: calibri, sans-serif;
+}
+
+h1 {
+    color: purple;
+    font-size: 2em;
+    font-weight: bold;
+}
+
+h2 {
+    color: teal;
+}
+
+h3 {
+    color: red;
+}
+
+h4{
+    color: black;
+}
+
+nav {
+    margin-bottom: 20px;
+}
+
+nav button {
+    padding: 8px;
+    margin-right: 5px;
+    background-color: #f0f0f0;
+    border: 1px solid #aaa;
+    cursor: pointer;
+}
+
+table {
+    border-collapse: collapse;
+    margin-top: 10px;
+}
+
+table, th, td {
+    border: 1px solid black;
+    padding: 5px;
+    text-align: center;
+}
+
+ul, ol {
+    margin-left: 20px;
+}
+
+a {
+    color: blue;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+.thumbnail {
+    width: 80px;
+    height: auto;
+    border: 1px solid #ccc;
+    margin-top: 10px;
+}
+
+.special {
+    color: orange;
+    font-weight: bold; /* Optional: makes it stand out */
+}
+
+#Black {
+    color: black;
+}
+
+#images {
+    text-align: center;
+}
